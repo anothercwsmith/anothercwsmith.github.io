@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/cwsmith
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://anothercwsmith.github.io
+  * I am cwsmith (https://keybase.io/cwsmith) on keybase.
+  * I have a public key ASCTS9FPgeEs-M3jissfF9HJS9nsmQtl2rm3fCfbnHgSrQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012064ee0889cf763c6c248737168e1fb3bbd8de0150c9a65d2cb3f95091bcc5de680a",
+      "host": "keybase.io",
+      "kid": "0120934bd14f81e12cf8cde38acb1f17d1c94bd9ec990b65dab9b77c27db9c7812ad0a",
+      "uid": "ccd38ff123e0ef449b4343b5d27c6b19",
+      "username": "cwsmith"
+    },
+    "merkle_root": {
+      "ctime": 1585432143,
+      "hash": "8b61ad658af579c8e5d034db2c50645ecf6c54adb2b0f6665def48a059bad31ca94d273ef31b2e4f91ce26064d176a44fda53f1ded59406f20842885d9625f6a",
+      "hash_meta": "ec8b537d6055001cfdca5d14840dccbe539e9bda17025a631df7c0c0f0a760c8",
+      "seqno": 15659811
+    },
+    "service": {
+      "entropy": "ZPft/D/xppX8a7pO+aBSsutp",
+      "hostname": "anothercwsmith.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1585432175,
+  "expire_in": 504576000,
+  "prev": "07e8338e3a1b95d71f15bff3e2081c0f431371c17f3181106156085a37c00963",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgk0vRT4HhLPjN44rLHxfRyUvZ7JkLZdq5t3wn25x4Eq0Kp3BheWxvYWTESpcCFsQgB+gzjjobldcfFb/z4ggcD0MTccF/MYEQYVYIWjfACWPEIPy9bJ5SSv7Wbj5PKKSsHNaCrqqhWTuU3CnJ3fuFrNRoAgHCo3NpZ8RAExvQYtanz4eBvu6GJ4JYc9YLzRgLQwG4MUUZ1u7qyi76FurWcfGOVkI84UjR6MsJ59iBnEaoO+X02FPglxXQB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAkfSvC7+Zh7RbkzjOTRhWpiRAYgAT7mBKrEze85eDw4o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cwsmith
+
+==================================================================
